@@ -4,7 +4,7 @@
 
 The Bureaucracy Bulldozer is an aggressive, hyper-competent AI agent designed to help you navigate complex zoning laws, municipal bylaws, and bureaucratic red tape. Whether you're trying to build a 12ft fence, a backyard shed, or a new room, the Bulldozer finds the legal pathway—or the loophole.
 
-![App Screenshot](./assets/screenshot.png) 
+![App Screenshot](./assets/screenshot (323).png) 
 *(Note: Replace with your actual screenshot if desired)*
 
 ## 🚀 Features
